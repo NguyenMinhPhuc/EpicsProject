@@ -1,4 +1,4 @@
-# EpicsProject
+# [EpicsProject](https://github.com/NguyenMinhPhuc/EpicsProject.wiki.git)
 # Mục tiêu
 Xây dựng hệ thống phục vụ cộng đồng hiến máu.
 # Công nghệ sử dụng
